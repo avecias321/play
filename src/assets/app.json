@@ -1,0 +1,32 @@
+ {
+	"songs" :[
+		{
+			"id":0,
+			"name": "Rebota",
+			"artista": "Guaynaa",
+			"song": "/assets/music/Rebota.mp3",
+			"imagen": "/assets/img/dos.jpg.jpg"
+		},
+		{
+			"id":1,
+			"name": "17 Años",
+			"artista": "Guaynaa",
+			"song": "/assets/music/17 Años.mp3",
+			"imagen": "/assets/img/tres.jpg.jpg"
+		},
+		{
+			"id":2,
+			"name": "Tu Postura",
+			"artista": "Guaynaa",
+			"song": "/assets/music/Tu postura.mp3",
+			"imagen": "/assets/img/cuatro.jpg.jpg"
+		},
+		{
+			"id":3,
+			"name": "El Paciente",
+			"artista": "Guaynaa",
+			"song": "/assets/music/El Paciente.mp3",
+			"imagen": "/assets/img/cinco.jpg.jpg"
+		}
+	]
+}
